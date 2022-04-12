@@ -2,6 +2,9 @@
 Dev2501 - Front end frameworks
 
 ## Branches
-Main -  Branch for deployment
-Dev - Working Branch
-01_Components - Starting Branch for Boilerplate
+- Main -  Branch for deployment
+- Dev - Working Branch
+- 01_Components - Starting Branch for Boilerplate
+
+###### Documentation for Readme files
+[Readme Documentation](https://docs.github.com/en/enterprise-server@3.3/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
