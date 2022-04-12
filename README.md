@@ -5,8 +5,9 @@ Dev2501 - Front end frameworks
 - Main -  Branch for deployment
 - Dev - Working Branch
 - 01_Components - Starting Branch for Boilerplate
+- 01_Component-Renamed Branch
 
 ###### Documentation for Readme files
 [Readme Documentation](https://docs.github.com/en/enterprise-server@3.3/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
-Upated for module 2.
+Upated for module 2
